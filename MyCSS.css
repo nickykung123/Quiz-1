@@ -1,53 +1,59 @@
-.flex-bar{
+.flex-bar {
     justify-content: space-around;
     display: flex;
     align-items: center;
-    background-color:blueviolet;
+    background-color: blueviolet;
     height: 100px;
     color: white;
 }
-#p1{
+
+#p1 {
     display: flex;
     align-items: center;
-    background-color:rgb(17, 251, 17);
+    background-color: rgb(17, 251, 17);
     border: double 4px;
     width: 15%;
     height: 30px;
 }
-#p2{
+
+#p2 {
     display: flex;
     align-items: center;
-    background-color:rgb(17, 251, 17);
+    background-color: rgb(17, 251, 17);
     border: double 4px;
     width: 15%;
     height: 30px;
 }
-#p3{
+
+#p3 {
     display: flex;
     align-items: center;
-    background-color:rgb(17, 251, 17);
+    background-color: rgb(17, 251, 17);
     border: double 4px;
     width: 15%;
     height: 30px;
     white-space: nowrap;
 }
-#p4{
+
+#p4 {
     display: flex;
     align-items: center;
-    background-color:rgb(17, 251, 17);
+    background-color: rgb(17, 251, 17);
     border: double 4px;
     width: 15%;
     height: 30px;
 }
-.flex-down{
+
+.flex-down {
     justify-content: space-around;
     display: flex;
     align-items: center;
-    background-color:blueviolet;
+    background-color: blueviolet;
     height: 30px;
     color: white;
 }
-#dv1{
+
+#dv1 {
     background-color: brown;
     font: 16px tahoma;
     text-align: center;
@@ -57,8 +63,8 @@
     left: 50px;
     color: black;
 }
-.flex-container1{
-    justify-content: space-around;
+
+.flex-container1 {
     display: table-caption;
     align-items: center;
     background-color: rgb(255, 255, 255);
@@ -67,31 +73,33 @@
     width: 1500px;
 
 }
-.flex-container2{
+
+.flex-container2 {
     justify-content: space-around;
     display: table-caption;
     align-items: center;
     background-color: rgb(249, 145, 145);
     font-size: 20px;
     height: 500px;
-    width: 800px;
-    margin-left: 300px;
-    margin-top: -308px;
+    width: 1090px;
+    margin-left: 233px;
+    margin-top: -248px;
 }
-.flex-container3{
+
+.flex-container3 {
     justify-content: space-around;
     display: table-caption;
     align-items: center;
     background-color: rgb(255, 255, 255);
     font-size: 20px;
-    height: 300px;
-    width: 300px;
-    margin-left: 810px;
-    margin-top: -150px;
+    height: 200px;
+    width: 1500px;
+    margin-left: 1100px;
+    margin-top: -130px;
 }
-.moved-text{
-    margin-left: 20px;
+.moved-top{
+    margin-top: -20px;
 }
-#p5{
-    margin-left: 30;
+.moved-left1{
+    margin-left: 10;
 }
